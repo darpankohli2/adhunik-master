@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto';font-size: 16px;
+  font-family: 'Roboto';font-size: 16px !important;
   background: -webkit-linear-gradient(to right, #2d2f31, #00070e);
     background: linear-gradient(to right, #2d2f31, #00070e);
     color: rgba(70, 139, 179, 0.993) !important;
@@ -10,7 +10,7 @@ body {
   padding: 90px 0;
 }
 .aboutus-title {
-  font-size: 30px;
+  font-size: 4rem;
   letter-spacing: 0;
   line-height: 32px;
   margin: 0 0 39px;
